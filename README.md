@@ -10,6 +10,13 @@
 链接：[https://pan.baidu.com/s/1QDWZNH4ct6VFvVaAuLjVyQ](https://pan.baidu.com/s/1QDWZNH4ct6VFvVaAuLjVyQ)
 提取码：xl29 
 
+## 下载方法
+
+2. 加QQ群 `237967793`，群文件直接下载最新版本（v3.0）
+3. 百度网盘链接：（内含脚本v4.3+虚拟机+win10镜像）
+   链接：https://pan.baidu.com/s/1JeIKOCtov_RShm8eZpBirA 
+   提取码：78oc 
+
 ## 使用方法(每一步都很重要)
 
 1. `win10`系统可以稳定运行脚本，`win7`不予保证
@@ -22,12 +29,9 @@
 9. 点击`开始挂机`，双手离开电脑，观察没问题后关闭显示器睡觉
 10. `crtl+0`停止挂机
 
-## 下载方法
+## 
 
-2. 加QQ群 `237967793`，群文件直接下载最新版本（v3.0）
-3. 百度网盘链接：（内含脚本v2.11+虚拟机+win10镜像）
-   链接：https://pan.baidu.com/s/1JeIKOCtov_RShm8eZpBirA 
-   提取码：78oc 
+
 
 ## 加QQ群237967793直接下载最新脚本
 
