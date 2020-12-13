@@ -1,4 +1,4 @@
-# 不多BBv4.2
+# 不多BBv4.3.1
  LOL 云顶之弈 自投脚本
 
 | 最新版本 | 更新内容                                          | 更新日期       |
@@ -10,13 +10,6 @@
 链接：[https://pan.baidu.com/s/1QDWZNH4ct6VFvVaAuLjVyQ](https://pan.baidu.com/s/1QDWZNH4ct6VFvVaAuLjVyQ)
 提取码：xl29 
 
-## 下载方法
-
-2. 加QQ群 `237967793`，群文件直接下载最新版本（v3.0）
-3. 百度网盘链接：（内含脚本v4.3+虚拟机+win10镜像）
-   链接：https://pan.baidu.com/s/1JeIKOCtov_RShm8eZpBirA 
-   提取码：78oc 
-
 ## 使用方法(每一步都很重要)
 
 1. `win10`系统可以稳定运行脚本，`win7`不予保证
@@ -24,20 +17,50 @@
 4. <font color=#FF0000>LOL客户端默认`1280*720`分辨率，位置千万不要动</font>
 5. <font color=#FF0000>LoL 游戏内分辨率 `1920*1080`，窗口化</font>
 6. lol 进入云顶之弈房间
+6. 使用<font color=#FF0000>基础棋盘</font>
 7. <font color=#FF0000>用 ***管理员模式***启动 `不多BB.exe` </font> 
 8. 根据需求勾选相关设着
-9. 点击`开始挂机`，双手离开电脑，观察没问题后关闭显示器睡觉
+9. 点击`开始挂机`，双手离开电脑，观察没问题后睡觉
 10. `crtl+0`停止挂机
 
-## 
+## 下载方法
+
+2. 加QQ群 `237967793`，群文件直接下载最新版本（v4.3.1）
+3. 百度网盘链接：（内含脚本v4.3.1+虚拟机+win10镜像）
+   链接：https://pan.baidu.com/s/1JeIKOCtov_RShm8eZpBirA 
+   提取码：78oc 
+
+## 有问题可以到[腾讯文档BUG区](https://docs.qq.com/sheet/DSklsY0hZRmhycmJt?groupUin=IJjUw0eVIFNAuHRUyb66pQ%253D%253D&tab=BB08J2)留言
+
+# 常见问题临时解决方法
+
+## 1. 脚本不会投降怎么办？
+
+- 检查是否窗口化
+
+- 换别的投降回合试一下
+
+- 更换投降回合图片
+
+## 2. 排队长时间进不去？
+
+- 客户端卡了，重启一下
+
+## 3. 脚本点不了开始游戏
+
+- 使用管理员模式启动脚本
+- 客户端启动后不要移动位置，如果移动过重启就行
+
+## 4. 晚上睡觉前好好的，白天起来脚本不动了，只拿3只怪
+
+- 不要关闭显示器
+- 笔记本不要盖上盖子
+- 息屏，拔掉外接鼠标键盘，可能会导致脚本停止操作
+- 如果你关着显示器脚本正常的话就无所谓了
 
 
 
-## 加QQ群237967793直接下载最新脚本
 
-## 有操作或者其他问题发群里问群友
-
-## 如果还有什么操作上的问题可以到[腾讯文档BUG区](https://docs.qq.com/sheet/DSklsY0hZRmhycmJt?groupUin=IJjUw0eVIFNAuHRUyb66pQ%253D%253D&tab=BB08J2)留言
 
 ## 具体功能
 
