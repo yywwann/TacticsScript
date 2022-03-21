@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>source/tuBiao.ico</file>
+    <file>source/qtcode2.png</file>
+    <file>source/qtcode3.png</file>
+    <file>source/publicQRcode.jpg</file>
+    <file>source/sponsorship.jpg</file>
+  </qresource>
+</RCC>

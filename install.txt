@@ -1,0 +1,7 @@
+pyqt
+pyautogui
+system_hotkey
+pypiwin32
+qdarkstyle
+requests
+pyinstaller
